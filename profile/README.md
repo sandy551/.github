@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://www.mulesoft.com/sites/default/files/2019-09/PARTNER-GIF%20v2_0%20%281%29.gif" align="center" style="width: 100%" />
 </div>  
-  
-
+ 
 ### <div align="center">I'm Sandeep Sai Kumar, a full-time MuleSoft developer 👨‍💻 working since 2019 🚀</div>  
   
 
@@ -36,8 +35,16 @@
 - REST APIs
 - Git
  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep5113)](https://github.com/sandeep5113/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sandy551)](https://github.com/sandeep5113/github-readme-stats)
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sandeep5113&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
